@@ -36,6 +36,7 @@ from here i knew that this is link direct us to cyberheroes official instagram a
 ![image](https://github.com/miroollya/MINI-CTF-WRITE-UP/assets/129681351/5be45dd4-dae1-4d1e-b33e-ca9a089656f2)
 
 and i remember when we open the secret i saw the hacker name which is ./hackboredzz so i try to search from ucc instagram follower...
+
 ![image](https://github.com/miroollya/MINI-CTF-WRITE-UP/assets/129681351/95c59197-12d5-401f-a41c-f71b7de1e9bd)
 
 then we found him and i open his profile and see the first post on 9 june
