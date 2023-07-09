@@ -29,6 +29,7 @@ from this i figure out the /secret directory that may lead me to the hacker so i
 so we gain some encyrpt code and im again using cyberchef to decrpyt it by using rot47
 
 before:9EEADi^^:?DE28C2>]4@>^4J36C96C@6D@77:4:2=n:8D9:5l|K#=~sq:}(u=+pll
+
 after:https://instagram.com/cyberheroesofficial?igshid=MzRlODBiNWFlZA==
 
 from here i knew that this is link direct us to cyberheroes official instagram and i open it..
@@ -37,7 +38,7 @@ from here i knew that this is link direct us to cyberheroes official instagram a
 and i remember when we open the secret i saw the hacker name which is ./hackboredzz so i try to search from ucc instagram follower...
 ![image](https://github.com/miroollya/MINI-CTF-WRITE-UP/assets/129681351/95c59197-12d5-401f-a41c-f71b7de1e9bd)
 
-then we found him and i open him profile and see the first post on 9 june
+then we found him and i open his profile and see the first post on 9 june
 ![image](https://github.com/miroollya/MINI-CTF-WRITE-UP/assets/129681351/46fe5987-1c89-4261-a024-e15e10afb5ef)
 
 then we found out the flag which is UCC{MINI_CTF_PROGRAMME_2023}
