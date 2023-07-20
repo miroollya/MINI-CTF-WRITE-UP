@@ -11,6 +11,7 @@ Greetings! I hope you're all having a splendid day! I kindly request your assist
 Crack the code and discover the enigmatic hacker! Let's add an extra layer of excitement to this endeavor.
 
 -boredzz-
+![image](https://github.com/miroollya/MINI-CTF-WRITE-UP/assets/129681351/53c6e8cd-e8dc-446d-8282-a0c7f73ce297)
 
 
 soo this is how i manage to trace the hacker :)
